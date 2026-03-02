@@ -11,7 +11,8 @@
 - Swiper.js（轮播图插件）
 
 ## 项目结构
-qingdao-tour-website/├── css/ # 样式文件
+qingdao-tour-website/
+├── css/ # 样式文件
 ├── images/ # 图片资源
 ├── js/ # JavaScript 脚本
 ├── index.html # 首页
@@ -24,6 +25,7 @@ qingdao-tour-website/├── css/ # 样式文件
 直接双击 `index.html` 文件，在浏览器中打开即可查看完整网站效果。
 
 ## 项目亮点
-- 响应式设计，适配不同设备屏幕
-- 使用 Swiper.js 实现轮播图效果
-- 包含景点介绍、美食推荐、旅游路线等多个模块
+- 采用模块化布局，代码结构清晰易维护
+- 使用 Swiper.js 实现轮播图，提升页面交互体验
+- 包含景点介绍、美食推荐、旅游路线等多个功能模块
+- 后续可扩展响应式布局，适配电脑端设备
